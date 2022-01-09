@@ -75,6 +75,7 @@ function wordStep(str) {
   return returnArr;
 }
 
+// calculate width/height of 'table'
 const calculateLength = (arr, ifEven) => {
   let modulo = ifEven ? 0 : 1;
   let returnLength = arr
