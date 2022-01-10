@@ -5,6 +5,13 @@
 [My profile on Codewars.com](https://www.codewars.com/users/adamsokolski)
 
 
+#### 10.01.2022
+
+- ✔ [moveZeros.js](./JavaScript/moveZeros.js)
+- ✔ [validParentheses.js](./JavaScript/validParentheses.js)
+- ✔ [humanReadableTime.js](./JavaScript/humanReadableTime.js)
+- ✔ [snailSort.js](./JavaScript/snailSort.js)
+
 #### 09.01.2022
 
 - ✔ [bouncingBall.js](./JavaScript/bouncingBall.js)
