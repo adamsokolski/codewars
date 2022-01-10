@@ -11,6 +11,7 @@
 - ✔ [validParentheses.js](./JavaScript/validParentheses.js)
 - ✔ [humanReadableTime.js](./JavaScript/humanReadableTime.js)
 - ✔ [snailSort.js](./JavaScript/snailSort.js)
+- ✔ [dirReduc.js](./JavaScript/dirReduc.js)
 
 #### 09.01.2022
 
