@@ -8,8 +8,6 @@ snail(array) #=> [1,2,3,6,9,8,7,4,5]
 
 */
 
-// Idea: delete elements when pushed to returnArr
-
 const snail = (array) => {
   if (array[0].length === 0) return []
   let returnArr = []

@@ -5,6 +5,10 @@
 [My profile on Codewars.com](https://www.codewars.com/users/adamsokolski)
 
 
+#### 11.01.2022
+
+- 🚧 [permutations.js](./JavaScript/permutations.js)
+
 #### 10.01.2022
 
 - ✔ [moveZeros.js](./JavaScript/moveZeros.js)
